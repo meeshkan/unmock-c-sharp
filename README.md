@@ -1,5 +1,8 @@
-# unmock-c-sharp
-Monorepo for unmock's c-sharp libraries, including dotnet and aspnet
+# [Unmock](https://www.unmock.io/) (C# SDK)
+
+[![Chat on Gitter](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/unmock/community)
+
+A monorepo for Unmock's future C# libraries, including .NET and ASP.NET.
 
 ## Contributing
 
